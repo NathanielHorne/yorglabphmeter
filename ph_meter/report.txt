@@ -1,0 +1,11 @@
+Plotted to '/home/natch/Documents/BYU/IMMERSE/Yorglab/ph_meter/8dec2023phmeterrev3/ph_meter-F_Cu.gbr'.
+Plotted to '/home/natch/Documents/BYU/IMMERSE/Yorglab/ph_meter/8dec2023phmeterrev3/ph_meter-B_Cu.gbr'.
+Plotted to '/home/natch/Documents/BYU/IMMERSE/Yorglab/ph_meter/8dec2023phmeterrev3/ph_meter-F_Paste.gbr'.
+Plotted to '/home/natch/Documents/BYU/IMMERSE/Yorglab/ph_meter/8dec2023phmeterrev3/ph_meter-B_Paste.gbr'.
+Plotted to '/home/natch/Documents/BYU/IMMERSE/Yorglab/ph_meter/8dec2023phmeterrev3/ph_meter-F_Silkscreen.gbr'.
+Plotted to '/home/natch/Documents/BYU/IMMERSE/Yorglab/ph_meter/8dec2023phmeterrev3/ph_meter-B_Silkscreen.gbr'.
+Plotted to '/home/natch/Documents/BYU/IMMERSE/Yorglab/ph_meter/8dec2023phmeterrev3/ph_meter-F_Mask.gbr'.
+Plotted to '/home/natch/Documents/BYU/IMMERSE/Yorglab/ph_meter/8dec2023phmeterrev3/ph_meter-B_Mask.gbr'.
+Plotted to '/home/natch/Documents/BYU/IMMERSE/Yorglab/ph_meter/8dec2023phmeterrev3/ph_meter-Edge_Cuts.gbr'.
+Created Gerber job file '/home/natch/Documents/BYU/IMMERSE/Yorglab/ph_meter/8dec2023phmeterrev3/ph_meter-job.gbrjob'.
+Info: Done.
